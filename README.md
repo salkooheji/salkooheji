@@ -1,6 +1,6 @@
 ## Salman Alkooheji
 
-Data Science & Business Analytics student at the University of London (academic direction of LSE, delivered via BIBF), on a full academic scholarship, alongside a Full-Stack Developer Diploma at Reboot Coding Institute.
+Data Science & Business Analytics student at the University of London (academic direction of LSE, delivered via BIBF), on a full academic scholarship. I hold a Full-Stack Developer Diploma from Reboot Coding Institute.
 
 My focus is machine learning and data analytics, with an emphasis on rigor and reproducibility: leakage-free pipelines, verified explanations, and documented evaluation. Based in Bahrain.
 
@@ -18,7 +18,7 @@ My focus is machine learning and data analytics, with an emphasis on rigor and r
 | [guidely](https://github.com/salkooheji/guidely) | Internal knowledge assistant (RAG) that answers questions on company documents and cites its sources | 100% retrieval@3 | FastAPI, FAISS, React, Llama 3.1 |
 | [vision-track](https://github.com/salkooheji/vision-track) | Real-time multi-stream person detection, tracking, and ROI counting with a live dashboard | Precision 0.991, 1.55x CPU speedup | PyTorch, YOLOv8, ByteTrack, ONNX |
 | [document-categorization](https://github.com/salkooheji/document-categorization) | Multilingual NLP system classifying documents across four languages into 7 topics, with context-aware tag extraction | 83.95% test accuracy | TensorFlow, DistilBERT, spaCy |
-| [sp500-strategies](https://github.com/salkooheji/sp500-strategies) | Leakage-free ML trading signal on S&P 500 constituents, backtested as a long/short strategy | 2-3x lower volatility than the index | pandas, scikit-learn, ta |
+| [sp500-strategies](https://github.com/salkooheji/sp500-strategies) | Leakage-free ML trading signal on S&P 500 constituents, backtested as a long/short strategy | Underperformed the index (-0.098 vs +0.170) at 2-3x lower volatility | pandas, scikit-learn, ta |
 | [matrix-factorization](https://github.com/salkooheji/matrix-factorization) | Movie recommender on MovieLens 1M comparing SVD and from-scratch PMF, with a Streamlit dashboard | PMF test RMSE 0.8499 | NumPy, SciPy, Streamlit |
 
 ### Tools
